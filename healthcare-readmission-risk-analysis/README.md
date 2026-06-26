@@ -8,6 +8,11 @@ The goal was to build a small end-to-end healthcare analytics workflow using Pyt
 
 This project uses simulated/public healthcare-style admission data for portfolio demonstration. No real patient data is used.
 
+## Data Note
+This project uses simulated/public healthcare-style admission data for portfolio demonstration.
+No real patient data, no confidential hospital data, and no personally identifiable patient information are included in this repository.
+The dataset structure is designed to demonstrate how hospital admission and readmission patterns can be analyzed using Python and SQL.
+
 ## Why This Project Matters
 
 Hospital readmissions are not only clinical events. They can also show system-level problems such as discharge planning gaps, limited follow-up coordination, workflow pressure, and lack of early visibility.
@@ -60,6 +65,7 @@ This project is personal to my professional background.
 I come from healthcare operations, where accuracy, timing, documentation and patient safety matter every day. I do not look at data only as numbers. I look at it as something that can support real teams, real workflows and better patient outcomes.
 
 That is the mindset I bring into data analytics.
+
 
 ## Files in This Project
 
